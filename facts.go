@@ -106,6 +106,7 @@ func getPlayerFact(index int) string {
 		"The first custom community-made level is Waves Pro by FLAVOUR",
 		"*Someone* once pinged the entire server by uploading a score with the name `@ everyone`",
 		"Brandon was the first person to hold the number 1 spot for all 5 modes simultaneously",
+		"bread",
 	}
 
 	if index == 0 {
